@@ -6,8 +6,8 @@
     "data_size": 108,
     "nom_orig": "Ginko",
     "texte_orig": "Ho[SP]Oi[SP]Dik![1205][001E][SP][U+1113]'s[SP]so[SP]cute\nwhen[SP]he's[SP]asleep!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Oh wow![1205][001E] [U+1113] est trop mignon\nquand il dort!"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 252,
     "nom_orig": "Yukino",
     "texte_orig": "Well,[SP]looks[SP]like[SP]everyone's[SP]feeling[SP]much\nbetter.[SP]Should[SP]we[SP]start[SP]thinking[SP]seriously\nabout[SP]how[SP]to[SP]get[SP]out[SP]of[SP]here?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Bon, tout le monde a l'air de se sentir\nmieux. On devrait sérieusement\n trouver un moyen de sortir d'ici, non?"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 142,
     "nom_orig": "Maya",
     "texte_orig": "We've[SP]all[SP]been[SP]too[SP]focused[SP]on[SP]the[SP]idea[SP]that\nthere's[SP]no[SP]exit.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "On pensait tous qu'il n'y avait\naucune issue."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 218,
     "nom_orig": "Maya",
     "texte_orig": "You[SP]know[SP]what[SP]they[SP]say:[SP][1432][NULL][NULL][0014]What's[SP]most\nimportant[SP]can't[SP]be[SP]seen[SP]with[SP]one's[SP]eyes.[1432][NULL][NULL][0014]\nRight,[SP][U+1113]-kun?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Tu sais ce qu'on dit: [1432][NULL][NULL][0014]Ce qui\n est le plus important ne peut être vu avec les yeux.[1432][NULL][NULL][0014]\n N'est-ce pas, [U+1113]-kun?"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 92,
     "nom_orig": "Ginko",
     "texte_orig": "Hm!?[SP]What's[SP]going[SP]on[SP]with[SP]them...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Hm!? Qu'est ce qui leur prend...?"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 222,
     "nom_orig": "Maya",
     "texte_orig": "There's[SP]probably[SP]a[SP]loophole[SP]we're\noverlooking.[SP]The[SP]key[SP]to[SP]cracking[SP]this\nrumor's[SP]logic[SP]is[SP]the[SP]mirror.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Il y a probablement quelque chose qui\nnous échappes. La clée doit être\nce miroir."
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 168,
     "nom_orig": "Maya",
     "texte_orig": "Now[SP]let's[SP]sort[SP]through[SP]what[SP]we[SP]know[SP]one\nmore[SP]time[SP]and[SP]think[SP]of[SP]a[SP]way[SP]out!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "OK, récapitulons une dernière fois\net trouvons une issue!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 220,
     "nom_orig": "Maya",
     "texte_orig": "The[SP]rumor[SP]was[SP]that[SP]once[SP]you're[SP]in[SP]this\nair[SP]raid[SP]shelter,[SP]you[SP]can't[SP]get[SP]out,[SP]right?\nBut[SP]why[SP]is[SP]that?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "La rumeur dit qu'une fois dans cet\nabris, on ne peut en sortir, c'est ça?\n Mais alors pourquoi?"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 336,
     "nom_orig": "Maya",
     "texte_orig": "But[SP]why[SP]is[SP]that?\n[U+1208][0002][1432][NULL][NULL][0014]You[SP]don't[SP]know[SP]where[SP]the[SP]exit[SP]is.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]There[SP]is[SP]no[SP]exit.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nOkay,[SP]next[SP]question.[SP]Has[SP]anyone[SP]escaped\nfrom[SP]this[SP]shelter?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Mais alors pourquoi?\n [U+1208][0002][1432][NULL][NULL][0014] Tu ne sais pas ou est la sortie.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Il n'y a pas de sortie.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nOk, on continue. Est ce que quelqu'un\n est déjà sortie de cet abris?"
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 418,
     "nom_orig": "Maya",
     "texte_orig": "Has[SP]anyone[SP]escaped[SP]from[SP]this[SP]shelter?\n[U+1208][0002][1432][NULL][NULL][0014]Nope,[SP]no[SP]one.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]There[SP]was[SP]one[SP]person.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nAnd[SP]how[SP]did[SP]the[SP]person[SP]in[SP]the[SP]rumor[SP]escape?\nThey[SP]used[SP]a[SP]certain[SP]something,[SP]right?\nWhat[SP]was[SP]it?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Est ce que quelqu'un est déjà sortie de cet abris?\n[U+1208][0002][1432][NULL][NULL][0014]Non, personne.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Il y avais quelqu'un.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\n Et comment cette personne a-telle fait?\nElle a du utiliser quelque chose...\nMais quoi?"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 274,
     "nom_orig": "Maya",
     "texte_orig": "What[SP]was[SP]it?\n[U+1208][0002][1432][NULL][NULL][0014]A[SP]compass.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]A[SP]mirror.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nNow[SP]here's[SP]our[SP]problem,[SP]since[SP]we[SP]don't[SP]have\na[SP]mirror[SP]anymore...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Mais quoi?\n[U+1208][0002][1432][NULL][NULL][0014]Une boussole.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Un miroir.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nMais on a un soucis, vu qu'on a plus\nde miroir..."
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 130,
     "nom_orig": "Maya",
     "texte_orig": "What[SP]do[SP]mirrors[SP]really[SP]do?[SP]They[SP]reflect\nthings,[SP]right?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "A quoi servent les miroires? Il reflètent\n les choses, non?"
   },
   {
     "id": 12,
@@ -126,8 +126,8 @@
     "data_size": 356,
     "nom_orig": "Maya",
     "texte_orig": "What[SP]does[SP]a[SP]mirror[SP]reflect?\n[U+1208][0002][1432][NULL][NULL][0014]Everything[SP]in[SP]range.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Your[SP]own[SP]face.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nOkay,[SP]and[SP]what[SP]do[SP]you[SP]mean[SP]by[SP][1432][NULL][NULL][0014]everything\nin[SP]range[1432][NULL][NULL][0014]!?[SP]Keep[SP]going...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Et que reflète un miroir?\n[U+1208][0002][1432][NULL][NULL][0014]Tout ce qu'il y a devant lui.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Ton propre visage.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nOk, et qu'est ce que tu veux dire par [1432][NULL][NULL][0014]tout ce qu'il\n y a devant lui[1432][NULL][NULL][0014]!? Continue..."
   },
   {
     "id": 13,
@@ -136,8 +136,8 @@
     "data_size": 460,
     "nom_orig": "Maya",
     "texte_orig": "Keep[SP]going...\n[U+1208][0002][1432][NULL][NULL][0014]You[SP]can[SP]look[SP]up[SP]skirts?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]You[SP]can[SP]see[SP]things[SP]indirectly.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nI[SP]think[SP]whoever[SP]escaped[SP]in[SP]the[SP]rumor[SP]managed\nit[SP]by[SP]accident,[SP]but[SP]they[SP]did[SP]it[SP]by[SP]finding\nan[SP]exit[SP]reflected[SP]in[SP]the[SP]mirror!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Continue...\n[U+1208][0002][1432][NULL][NULL][0014]Tu peux voir en dessous des jupes?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Tu peux voir des choses indirectement.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nJe pense que quiconque a réussi a s'échapper\n la fait par accident, mais il la fait en trouvant\n une sortie grâce au miroir!"
   },
   {
     "id": 14,
@@ -146,8 +146,8 @@
     "data_size": 206,
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]get[SP]it...[SP]If[SP]the[SP]rumor[SP]is[SP]that[SP]no[SP]one\nknows[SP]where[SP]the[SP]exit[SP]is,[SP]then[SP]the[SP]exit\ndoes[SP]exist!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Je vois... Si la rumeur est que personne\nne connais la sortie, alors il existe bien\n une sortie!"
   },
   {
     "id": 15,
@@ -156,8 +156,8 @@
     "data_size": 256,
     "nom_orig": "Maya",
     "texte_orig": "Right![SP][1432][NULL][NULL][0014]Not[SP]knowing[1432][NULL][NULL][0014][SP]isn't[SP]the[SP]same[SP]thing\nas[SP][1432][NULL][NULL][0014]not[SP]existing[1432][NULL][NULL][0014]...[1205][001E][SP]That[SP]was[SP]just[SP]us[SP]jumping\nto[SP]conclusions.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Exactement! [1432][NULL][NULL][0014]Ne pas savoir[1432][NULL][NULL][0014] ne veut pas dire que\n ça [1432][NULL][NULL][0014]n'existe pas[1432][NULL][NULL][0014]...[1205][001E]Ne tirons pas de conclusions\n hâtive."
   },
   {
     "id": 16,
@@ -166,8 +166,8 @@
     "data_size": 160,
     "nom_orig": "Eikichi",
     "texte_orig": "Ahaha![SP]I[SP]had[SP]my[SP]suspicions[SP]that[SP]would[SP]be\nthe[SP]case[SP]right[SP]from[SP]the--",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ahahah! Je supposais que ça pouvait\n être le cas dès le--"
   },
   {
     "id": 17,
@@ -176,8 +176,8 @@
     "data_size": 248,
     "nom_orig": "Ginko",
     "texte_orig": "But[SP]with[SP]no[SP]mirror,[SP]there's[SP]no[SP]way[SP]for[SP]us[SP]to\nindirectly[SP]look[SP]for[SP]it![SP]If[SP]we[SP]can't[SP]see[SP]it,\nwe[SP]still[SP]can't[SP]get[SP]out!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Mais sans miroir, nous ne pouvons le voir\nindirectement! On ne peut pas le voir, \non ne peut pas sortir!"
   },
   {
     "id": 18,
@@ -186,8 +186,8 @@
     "data_size": 112,
     "nom_orig": "Yukino",
     "texte_orig": "Not[SP]so![SP]Is[SP]it[SP]time[SP]for[SP]me[SP]to[SP]bust[SP]this[SP]out?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Mais non! A mon tour de résoudre ça?"
   },
   {
     "id": 19,
@@ -196,8 +196,8 @@
     "data_size": 230,
     "nom_orig": "Maya",
     "texte_orig": "Ding[SP]ding[SP]ding![SP]If[SP]you[SP]use[SP]your[SP]digital\ncamera,[SP]you[SP]can[SP]take[SP]pictures[SP]of[SP]the[SP]exit\nand[SP]look[SP]at[SP]it,[SP]right?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ding ding ding! Si tu utilise ta\ncaméra, Tu peux prendre en photo la sortie\net la voir, non?"
   },
   {
     "id": 20,
@@ -206,8 +206,8 @@
     "data_size": 112,
     "nom_orig": "Yukino",
     "texte_orig": "Whoa![SP]It[SP]showed[SP]up![SP]The[SP]exit's[SP]right[SP]there!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Wow! C'est apparut! La sortie est\n juste là!"
   },
   {
     "id": 21,
@@ -216,8 +216,8 @@
     "data_size": 200,
     "nom_orig": "Maya",
     "texte_orig": "Us:[SP]1,[SP]Rumor:[SP]0![SP]C'mon,[SP]there's[SP]no[SP]reason\nto[SP]stick[SP]around[SP]anymore.[SP]Let's[SP]get[SP]out\nof[SP]here!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Nous: 1, Rumeur: 0! Aller, sortont d'ici."
   },
   {
     "id": 22,
@@ -226,8 +226,8 @@
     "data_size": 226,
     "nom_orig": "Maya",
     "texte_orig": "Correct![SP]The[SP]reason[SP]we[SP]can't[SP]get[SP]out[SP]is\nbecause[SP]the[SP]rumor[SP]says[SP][1432][NULL][NULL][0014]no[SP]one[SP]knows[SP]where\nthe[SP]exit[SP]is.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Exact! La rumeur dit [1432][NULL][NULL][0014]personne ne sait où est la sortie.[1432][NULL][NULL][0014]"
   },
   {
     "id": 23,
@@ -236,8 +236,8 @@
     "data_size": 150,
     "nom_orig": "Maya",
     "texte_orig": "Nope![SP]Close,[SP]but[SP]that's[SP]not[SP]quite[SP]it.\nTry[SP]and[SP]think[SP]back,[SP][U+1113]-kun.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Non! Pas loin mais c'est\npas ça. Essaie encore, [U+1113]-kun."
   },
   {
     "id": 24,
@@ -246,8 +246,8 @@
     "data_size": 48,
     "nom_orig": "Maya",
     "texte_orig": "That's[SP]right!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Exact!"
   },
   {
     "id": 25,
@@ -256,8 +256,8 @@
     "data_size": 244,
     "nom_orig": "Maya",
     "texte_orig": "Though[SP]the[SP]rumor[SP]says[SP][1432][NULL][NULL][0014]no[SP]one[SP]knows[SP]where\nthe[SP]exit[SP]is,[1432][NULL][NULL][0014][SP]there[SP]was[SP]supposedly[SP]one\nperson[SP]who[SP]did[SP]escape...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Je crois que la rumeur dit[1432][NULL][NULL][0014]personne ne sait où est\nla sortie, [1432][NULL][NULL][0014]mais quelqu'un c'est probablement échappé..."
   },
   {
     "id": 26,
@@ -266,8 +266,8 @@
     "data_size": 152,
     "nom_orig": "Maya",
     "texte_orig": "Nope![SP]We'd[SP]be[SP]doomed[SP]if[SP]that[SP]was[SP]true.\nTry[SP]and[SP]think[SP]back,[SP][U+1113]-kun.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Non! On serait dans la panade si c'étais vrai. \nEssaie encore, [U+1113]-kun."
   },
   {
     "id": 27,
@@ -276,8 +276,8 @@
     "data_size": 38,
     "nom_orig": "Maya",
     "texte_orig": "Correct!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Exact!"
   },
   {
     "id": 28,
@@ -286,8 +286,8 @@
     "data_size": 268,
     "nom_orig": "Maya",
     "texte_orig": "[1432][NULL][NULL][0014]No[SP]one[SP]knows[SP]where[SP]the[SP]exit[SP]is,[1432][NULL][NULL][0014][SP]so[SP]you\ncan't[SP]get[SP]out...[SP]But[SP]rumor[SP]has[SP]it[SP]that[SP]one\nperson[SP]got[SP]out[SP]by[SP]using[SP]a[SP]mirror.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "[1432][NULL][NULL][0014]Personne ne connais la sortie, donc\ntu ne peux pas sortir...\nMais la rumeur dit que quelqu'un à réussi\n a sortir en utilisant le miroir."
   },
   {
     "id": 29,
@@ -296,8 +296,8 @@
     "data_size": 170,
     "nom_orig": "Maya",
     "texte_orig": "Nope![SP]We[SP]were[SP]the[SP]ones[SP]talking[SP]about[SP]a\ncompass.[SP]Try[SP]and[SP]think[SP]back,[SP][U+1113]-kun.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Non! C'est nous qui parlions de \nboussole. Essaie encore, [U+1113]-kun."
   },
   {
     "id": 30,
@@ -306,8 +306,8 @@
     "data_size": 260,
     "nom_orig": "Maya",
     "texte_orig": "Yes![SP]That's[SP]it![SP]You're[SP]not[SP]the[SP]only[SP]thing\nthat[SP]appears[SP]in[SP]a[SP]mirror.[SP]Think[SP]about[SP]when\nyou[SP]drive[SP]a[SP]car[SP]or[SP]ride[SP]your[SP]bike!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Oui! C'est ça! Tu n'est pas la seul chose\n qui apparait dans un miroir. Pense a quand\ntu conduis une voiture ou une moto!"
   },
   {
     "id": 31,
@@ -316,8 +316,8 @@
     "data_size": 274,
     "nom_orig": "Maya",
     "texte_orig": "Hmm...[SP]Maybe[SP]if[SP]you're[SP]using[SP]a[SP]tiny[SP]cosmetics\nmirror,[SP]but[SP]even[SP]then,[SP]what[SP]if[SP]you[SP]changed[SP]its\nangle?[SP]Try[SP]and[SP]think[SP]back,[SP][U+1113]-kun.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Hmm... Peut-être si tu utilise un petit\n miroir, et que tu change l'angle de vue?\n Essaie encore, [U+1113]-kun."
   },
   {
     "id": 32,
@@ -326,8 +326,8 @@
     "data_size": 150,
     "nom_orig": "Maya",
     "texte_orig": "Bingo![SP]That's[SP]right,[SP][U+1113]-kun!\nThat's[SP]the[SP]importance[SP]of[SP]the[SP]mirror!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Voilà! C'est ça, [U+1113]-kun!\n C'est l'importance du miroir!"
   },
   {
     "id": 33,
@@ -336,8 +336,8 @@
     "data_size": 108,
     "nom_orig": "Maya",
     "texte_orig": "Uch![SP]The[SP]pervs[SP]they[SP]stick[SP]me[SP]with,\nI[SP]swear!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Beurk! Les pervères avec qui je suis,\n J'te jure!"
   },
   {
     "id": 34,
@@ -346,7 +346,7 @@
     "data_size": 160,
     "nom_orig": "Maya",
     "texte_orig": "Well,[SP]that's[SP]been[SP]our[SP]show[SP]for[SP]tonight!\nYou've[SP]been[SP]a[SP]great[SP]audience!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Et bien, le show est fini pour ce soir!\nVous avez été une audience exemplaire!"
   }
 ]
