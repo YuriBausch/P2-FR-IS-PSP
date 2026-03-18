@@ -6,8 +6,8 @@
     "data_size": 186,
     "nom_orig": "Eikichi",
     "texte_orig": "Here[SP]you[SP]are![SP]Why'd[SP]you[SP]run[SP]after[SP]seeing\nus?[SP]You're[SP]in[SP]the[SP]Masked[SP]Circle,[SP]huh!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Te voilà! Pourquoi est-ce que tu as couru?\nTu es du Cercle Masqué, hein!?"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 246,
     "nom_orig": "Handsome[SP]man",
     "texte_orig": "Run[SP]away?[SP]You[SP]got[SP]the[SP]wrong[SP]idea.[SP]I[SP]just\nwanted[SP]to[SP]go[SP]somewhere[SP]quiet[SP]so[SP]I[SP]could\ntalk[SP]to[SP]you[SP]in[SP]private.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gars très soin",
+    "texte_fr": "Couru? Vous faites erreur. Je voulais juste\n aller dans un endroit plus calme pour\nvous parler en privé."
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 228,
     "nom_orig": "Yukino",
     "texte_orig": "How[SP]considerate[SP]of[SP]you.[SP]If[SP]you[SP]behave\nyourself[SP]and[SP]answer[SP]our[SP]questions,[SP]this\nshould[SP]be[SP]a[SP]short[SP]chat.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "C'est gentil de ta part. Maintenant\nsi tu obéis et tu répond au question ça devrais être court."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 244,
     "nom_orig": "Handsome[SP]man",
     "texte_orig": "Ah[SP]me,[SP]brave[SP]lady.[SP]Would[SP]that[SP]we[SP]had[SP]met\nin[SP]different[SP]circumstances.[SP]But[SP]I[SP]must\naccept[SP]this[SP]as[SP]my[SP]fate.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gars très soin",
+    "texte_fr": "Ah moi, brave dame. J'aurai aimé qu'on\nse rencontre dans de meilleurs circonstances.\nMais je dois accepter mon destin."
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 152,
     "nom_orig": "Handsome[SP]man",
     "texte_orig": "I'm[SP]under[SP]orders[SP]from[SP]our[SP]Queen...[SP]You[SP]will\nall[SP]die[SP]here!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gars très soin",
+    "texte_fr": "Je suis sous les ordres de notre Reine...\nVous allez tous mourir ici!"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 72,
     "nom_orig": "Maya",
     "texte_orig": "Ulala![SP]You're[SP]still[SP]here!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ulala! Vous êtes encore ici!?"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 222,
     "nom_orig": "Handsome[SP]man",
     "texte_orig": "H...[SP]Honey!?[1205][001E][SP]I-I'm[SP]so[SP]glad[SP]to[SP]see[SP]you[SP]again!\nNot[SP]a[SP]day[SP]went[SP]by[SP]that[SP]I[SP]didn't[SP]think[SP]of[SP]you!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gars très soin",
+    "texte_fr": "C...Chéri!?[1205][001E]Je-Je suis heureux de te revoir!\nPas un jour n'est passé sans que je\npense à toi!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 232,
     "nom_orig": "Ulala",
     "texte_orig": "Can[SP]it,[SP]creep.[SP]Now[SP]that[SP]I[SP]found[SP]you,\nyou're[SP]a[SP]dead[SP]man...[1205][001E][SP]This[SP]is[SP]for[SP]all\nthe[SP]wedding[SP]funds[SP]you[SP]stole!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ulala",
+    "texte_fr": "Ta geule. Maintenant que je t'ai trouvé,\n tu es mort...[1205][001E] Ca c'est pour tout l'argent que tu as\n volé!"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 106,
     "nom_orig": "Maya",
     "texte_orig": "I[SP]had[SP]no[SP]idea[SP]Ulala[SP]was[SP]a[SP]Persona-user...!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Je ne savais pas que Ulala avais\n un Persona...!"
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 254,
     "nom_orig": "Eikichi",
     "texte_orig": "Hell[SP]hath[SP]no[SP]fury[SP]like[SP]a[SP]woman[SP]scorned...\nWho[SP]knows[SP]what[SP]girls[SP]a[SP]beautiful[SP]man[SP]like\nme[SP]has[SP]wrought[SP]tears[SP]from...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Il n'y a pas plus dangeureux qu'une\nfemme en colère...\nQui sait ce que les filles on pu faire\na un belle homme comme moi...?"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 86,
     "nom_orig": "Eikichi",
     "texte_orig": "We[SP]should[SP]both[SP]be[SP]careful,[SP][U+1113].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "On devrait tout les deux faire\n attention, [U+1113]."
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 132,
     "nom_orig": "Yukino",
     "texte_orig": "So[SP]then,[SP][U+1113].[SP]What[SP]kind[SP]of[SP]riddle[SP]did\nwe[SP]get[SP]this[SP]time?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Alors. Quel genre d'énigme on\na cette fois?"
   },
   {
     "id": 12,
@@ -126,8 +126,8 @@
     "data_size": 198,
     "nom_orig": "Ginko",
     "texte_orig": "[1432][NULL][NULL][0014]I'll[SP]be[SP]waiting[SP]at[SP]the[SP]Aerospace[SP]Museum\nin[SP]Kounan.\n[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]-King[SP]Leo[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "[1432][NULL][NULL][0014]J'attendrai au Musée d'Aérospacial de Kounan.\n                    -Roi Léo[1432][NULL][NULL][0014]"
   },
   {
     "id": 13,
@@ -136,8 +136,8 @@
     "data_size": 150,
     "nom_orig": "Ginko",
     "texte_orig": "It's[SP]not[SP]a[SP]riddle![SP]The[SP]next[SP]target[SP]is\nwritten[SP]here[SP]plain[SP]as[SP]day!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "C'est pas une énigme! La prochaine cible\nest écrite juste là, noir sur blanc!"
   },
   {
     "id": 14,
@@ -146,8 +146,8 @@
     "data_size": 206,
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]don't[SP]like[SP]this[SP]at[SP]all...[SP]We're[SP]dealing\nwith[SP]King[SP]Leo[SP]here.[SP]Couldn't[SP]it[SP]be[SP]another\ntrap?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "J'aime pas ça du tout... On a affaire\nau Roi Léo. Est ce que ça serait pas\n un autre piège?"
   },
   {
     "id": 15,
@@ -156,7 +156,7 @@
     "data_size": 222,
     "nom_orig": "Maya",
     "texte_orig": "Even[SP]if[SP]it[SP]is,[SP]the[SP]location[SP]is[SP]written\npretty[SP]clearly[SP]here.[SP]He[SP]wants[SP]to[SP]settle\nthings[SP]with[SP]us[SP]too...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Même si s'en est un, l'endroit est écrit\nclairement. Il veut nous avoir nous aussi..."
   }
 ]
